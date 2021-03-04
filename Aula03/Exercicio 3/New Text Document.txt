@@ -1,0 +1,1 @@
+3 - Faça um algoritmo que leia um valor inteiro e retorne se este valor é PAR ou ÍMPAR.

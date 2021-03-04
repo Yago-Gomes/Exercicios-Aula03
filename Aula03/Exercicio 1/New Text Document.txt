@@ -1,0 +1,2 @@
+1 - Crie um programa que leia um número inteiro e retorne se o mesmo é positivo ou negativo.
+Observação: Para a resolução deste problema considera que o número zero é um valor positivo.

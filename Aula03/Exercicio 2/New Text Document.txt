@@ -1,0 +1,1 @@
+2 - Faça um algoritmo que leia dois valores reais e informe se estes valores são iguais ou diferentes.
